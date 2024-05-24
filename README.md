@@ -1,2 +1,2 @@
 # genius_arduino
-Projeto no arduino para a materia Laboratório de Introdução à Programação do curso de Ciência da Computação na PUC Minas
+Jogo clássico "Genius" feito no arduino para a matéria Laboratório de Introdução à Programação no curso Ciências da Computação na PUC Minas
